@@ -10,6 +10,7 @@
 	height: 1300px;
 	position: absolute;
 	top: 20%;
+	transform: translate(-50% -50%);
 	
 	animation:imageanimation 5s infinite;
 }
