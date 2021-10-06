@@ -6,8 +6,8 @@
 }
 
 .car{
-	width: 1300px;
-	height: 1300px;
+	width: 800px;
+	height: 800px;
 	position: absolute;
 	top: 20%;
 	transform: translate(-50% -50%);
@@ -18,5 +18,5 @@
 @keyframes imageanimation{
 	0% {left: 1000px;}
 
-	100% {left: 3000px;}
+	100% {left: 2000px;}
 }
